@@ -1,6 +1,27 @@
 
+<<<<<<< HEAD
 
 .dropdown{
     float:left
     
+=======
+#wrapper {
+    color: aliceblue;
+    font-family: 'Lato light', sans-serif;
+}
+
+#nav{
+    overflow: hidden;
+    background-color: #ddd;
+    font-family: 'Lato light', sans-serif;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+#nav a {
+    color:black;
+    padding: 10px;
+
+>>>>>>> 1c71be85a7dd928810118ca7b19fbfb70dd2a554
 }
