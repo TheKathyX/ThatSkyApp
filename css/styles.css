@@ -1,10 +1,14 @@
 
-<<<<<<< HEAD
-
 .dropdown{
     float:left
-    
-=======
+}
+
+#header {
+    color: white;
+    background-color: cornflowerblue;
+
+}
+
 #wrapper {
     color: aliceblue;
     font-family: 'Lato light', sans-serif;
@@ -23,5 +27,4 @@
     color:black;
     padding: 10px;
 
->>>>>>> 1c71be85a7dd928810118ca7b19fbfb70dd2a554
 }
